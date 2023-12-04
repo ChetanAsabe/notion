@@ -306,8 +306,8 @@ function Homepage() {
               <img src={img5} className="p-5" />
             </div>
             <div>
-              <p className="text-base font-bold text-gray-500 rotate-90 lg:text-lg">
-                Made by Chetan :)
+              <p className="text-base font-bold text-gray-500  lg:text-lg">
+                :)
               </p>
             </div>
           </div>
