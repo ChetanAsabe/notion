@@ -307,7 +307,7 @@ function Homepage() {
             </div>
             <div>
               <p className="text-base font-bold text-gray-500  lg:text-lg">
-                : )
+                :)
               </p>
             </div>
           </div>
