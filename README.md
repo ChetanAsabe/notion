@@ -1,1 +1,1 @@
-# Notion FrontEnd Clone.
+# Notion Frontend Clone.
