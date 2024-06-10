@@ -22,7 +22,7 @@ import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
 function Homepage() {
   return (
     <div className="text-#050505 lg:ml-[250px] lg:mr-[250px] leading-4 text-lg bg-white">
-      <div className="text-center mt-16 lg:mt-[80px]">
+      <div className="text-center mt-10 lg:mt-[80px]">
         <div className="pb-5">
           <h1 className="md:text-7xl sm:text-6xl font-bold text-4xl text-center">
             <i className="text-orange-600 not-italic">Write</i>, plan, share.
